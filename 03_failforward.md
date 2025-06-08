@@ -1,4 +1,4 @@
-Gamification in HR: How to Engage Without Excluding
+# Gamification in HR: How to Engage Without Excluding
 Door 2: Winning shouldn’t be everything — employee engagement isn’t built on rankings
 
 In this series on Gamification in HR, I explore three different “doors” — three perspectives on how game-inspired elements can shape employee engagement. If you’ve read the first two parts, you’ve already stepped through the intro and the first door. Now we open Door 2, where things get a little more competitive.
